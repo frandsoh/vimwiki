@@ -12,7 +12,7 @@ endif
 let g:loaded_vimwiki_auto = 1
 
 
-let g:vimwiki_max_scan_for_caption = 5
+let g:vimwiki_max_scan_for_caption = 10
 
 
 " Substitute regexp but do not interpret replace
